@@ -18,7 +18,7 @@ h1{
 }
 p{
     margin-bottom: 1.1em;
-    text-align: justify;
+   
 }
 
 .container{
@@ -29,7 +29,7 @@ p{
 }
 
 .header{
-    background-color: white;
+     background-color: #F8F9F9;
     color: #333;
     padding: 2rem 0;
     
